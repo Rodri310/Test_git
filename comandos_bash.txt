@@ -3,3 +3,4 @@ cd -> move entre diretorios
 pwd -> mostra os diretorios
 cat -> mostra o arquivo 
 rm -> remove o arquivo 
+rm -rf -> force remove
